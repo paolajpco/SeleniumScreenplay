@@ -1,4 +1,4 @@
-**Automatización de prueba de la página web de demoqa.com**
+****Automatización de prueba de la página web de demoqa.com****
 
 Este proyecto de automatización de prueba utiliza Python, el patrón de diseño Screenplay, el marco de trabajo Selenium Web y se implementa con BDD y Cucumber.
 
@@ -36,25 +36,18 @@ Para actualizar Python a una versión más reciente, tendrá que descargar e ins
 
 Para configurar el ambiente en tu IDE local, sigue los siguientes pasos:
 Abre la terminal y ejecuta el siguiente comando para instalar behave:
-
     pip install behave
 
 Ejecuta el siguiente comando para instalar selenium:
-
     pip install selenium
 
 Abre la terminal y ejecuta el siguiente comando para instalar behave:
-
-sql
-
     pip install screenplay-pattern
 
 Ejecuta el siguiente comando para instalar cucumber-tag-expressions:
-
     pip install cucumber-tag-expressions
 
 Ejecuta el siguiente comando para instalar screenpy:
-
     pip install screenpy
 
 **Autor**
