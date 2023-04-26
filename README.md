@@ -2,14 +2,6 @@
 
 Este proyecto de automatización de prueba utiliza Python, el patrón de diseño Screenplay, el marco de trabajo Selenium Web y se implementa con BDD y Cucumber.
 
-**instrucciones para clonar el proyecto de GitHub:**
-En la terminal, escribe el siguiente comando y pega la URL del repositorio:
-
-
-        git clone https://github.com/paolajpco/SeleniumScreenplay.git
-
-  Presiona Enter para ejecutar el comando. Esto descargará todos los archivos del repositorio a tu computadora y creará una carpeta nueva llamada "SeleniumScreenplay".
-
 **Requerimientos de software:**
     Python 3.x
     pip
@@ -33,6 +25,7 @@ Para actualizar pip a la última versión, puede utilizar el siguiente comando e
 Para actualizar Python a una versión más reciente, tendrá que descargar e instalar la versión más reciente del sitio web oficial de Python en https://www.python.org/downloads/.
 
 **Configuración del ambiente en IDE local**
+
 Para configurar el ambiente en tu IDE local, sigue los siguientes pasos:
 instrucciones para clonar el proyecto de GitHub:
 Abre una terminal o línea de comandos en tu computadora.
