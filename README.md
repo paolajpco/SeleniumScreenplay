@@ -6,7 +6,6 @@ Este proyecto de automatización de prueba utiliza Python, el patrón de diseño
 
 A continuación se presenta un ejemplo de README para un proyecto de automatización de prueba de la página web de prueba https://demoqa.com/, utilizando Python, el patrón de diseño Screenplay, el marco de trabajo Selenium Web, implementado con BDD y Cucumber:
 Automatización de prueba de la página web de demoqa.com
-
 Este proyecto de automatización de prueba utiliza Python, el patrón de diseño Screenplay, el marco de trabajo Selenium Web y se implementa con BDD y Cucumber.
 Requerimientos
 
@@ -19,6 +18,7 @@ Requerimientos
     screenplay-pattern
     cucumber-tag-expressions
     screenpy
+    pytest-bdd
 Para verificar la versión de Python instalada en su sistema, puede abrir una terminal o consola y escribir el siguiente comando:
 
     python --version
@@ -36,20 +36,28 @@ Para actualizar Python a una versión más reciente, tendrá que descargar e ins
 
 Para configurar el ambiente en tu IDE local, sigue los siguientes pasos:
 Abre la terminal y ejecuta el siguiente comando para instalar behave:
-    pip install behave
+
+        pip install behave
 
 Ejecuta el siguiente comando para instalar selenium:
-    pip install selenium
+
+        pip install selenium
 
 Abre la terminal y ejecuta el siguiente comando para instalar behave:
-    pip install screenplay-pattern
+
+        pip install screenplay-pattern
 
 Ejecuta el siguiente comando para instalar cucumber-tag-expressions:
-    pip install cucumber-tag-expressions
+
+        pip install cucumber-tag-expressions
 
 Ejecuta el siguiente comando para instalar screenpy:
-    pip install screenpy
 
+     pip install screenpy
+    
+Instale pytest-bdd escribiendo el siguiente comando en su terminal:
+    pip install pytest-bdd
+    
 **Autor**
 
 Paola Ortiz
