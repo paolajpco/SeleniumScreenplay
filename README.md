@@ -10,7 +10,7 @@ Automatización de prueba de la página web de demoqa.com
 Este proyecto de automatización de prueba utiliza Python, el patrón de diseño Screenplay, el marco de trabajo Selenium Web y se implementa con BDD y Cucumber.
 Requerimientos
 
-Requerimientos de software:
+**Requerimientos de software:**
 
     Python 3.x
     pip
@@ -32,7 +32,7 @@ Para actualizar pip a la última versión, puede utilizar el siguiente comando e
 
 Para actualizar Python a una versión más reciente, tendrá que descargar e instalar la versión más reciente del sitio web oficial de Python en https://www.python.org/downloads/.
 
-Configuración del ambiente en IDE local
+**Configuración del ambiente en IDE local**
 
 Para configurar el ambiente en tu IDE local, sigue los siguientes pasos:
 Abre la terminal y ejecuta el siguiente comando para instalar behave:
