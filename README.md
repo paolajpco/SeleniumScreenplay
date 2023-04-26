@@ -2,21 +2,21 @@
 
 Este proyecto de automatización de prueba utiliza Python, el patrón de diseño Screenplay, el marco de trabajo Selenium Web y se implementa con BDD y Cucumber.
 
-**Configuración del ambiente en IDE local**
+**instrucciones para clonar el proyecto de GitHub:**
+En la terminal, escribe el siguiente comando y pega la URL del repositorio:
 
-A continuación se presenta un ejemplo de README para un proyecto de automatización de prueba de la página web de prueba https://demoqa.com/, utilizando Python, el patrón de diseño Screenplay, el marco de trabajo Selenium Web, implementado con BDD y Cucumber:
-Automatización de prueba de la página web de demoqa.com
-Este proyecto de automatización de prueba utiliza Python, el patrón de diseño Screenplay, el marco de trabajo Selenium Web y se implementa con BDD y Cucumber.
-Requerimientos
+
+        git clone https://github.com/paolajpco/SeleniumScreenplay.git
+
+  Presiona Enter para ejecutar el comando. Esto descargará todos los archivos del repositorio a tu computadora y creará una carpeta nueva llamada "SeleniumScreenplay".
 
 **Requerimientos de software:**
-
     Python 3.x
     pip
     behave
     selenium
     screenplay-pattern
-    cucumber-tag-expressions
+    cucumber
     screenpy
     pytest-bdd
 Para verificar la versión de Python instalada en su sistema, puede abrir una terminal o consola y escribir el siguiente comando:
@@ -33,30 +33,17 @@ Para actualizar pip a la última versión, puede utilizar el siguiente comando e
 Para actualizar Python a una versión más reciente, tendrá que descargar e instalar la versión más reciente del sitio web oficial de Python en https://www.python.org/downloads/.
 
 **Configuración del ambiente en IDE local**
-
 Para configurar el ambiente en tu IDE local, sigue los siguientes pasos:
-Abre la terminal y ejecuta el siguiente comando para instalar behave:
+instrucciones para clonar el proyecto de GitHub:
+Abre una terminal o línea de comandos en tu computadora.
+Navega hasta el directorio donde deseas clonar el proyecto.
+En el repositorio GitHub, haz clic en el botón "Code" y selecciona "HTTPS".
+Copia la URL HTTPS proporcionada.
+En la terminal, escribe el siguiente comando y pega la URL del repositorio:
 
-        pip install behave
+        git clone https://github.com/paolajpco/SeleniumScreenplay.git
 
-Ejecuta el siguiente comando para instalar selenium:
-
-        pip install selenium
-
-Abre la terminal y ejecuta el siguiente comando para instalar behave:
-
-        pip install screenplay-pattern
-
-Ejecuta el siguiente comando para instalar cucumber-tag-expressions:
-
-        pip install cucumber-tag-expressions
-
-Ejecuta el siguiente comando para instalar screenpy:
-
-     pip install screenpy
-    
-Instale pytest-bdd escribiendo el siguiente comando en su terminal:
-    pip install pytest-bdd
+  Presiona Enter para ejecutar el comando. Esto descargará todos los archivos del repositorio a tu computadora y creará una carpeta nueva llamada "SeleniumScreenplay".
     
 **Autor**
 
