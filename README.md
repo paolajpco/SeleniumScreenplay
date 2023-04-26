@@ -10,7 +10,7 @@ Automatización de prueba de la página web de demoqa.com
 Este proyecto de automatización de prueba utiliza Python, el patrón de diseño Screenplay, el marco de trabajo Selenium Web y se implementa con BDD y Cucumber.
 Requerimientos
 
-Para ejecutar el proyecto, es necesario tener instalados los siguientes elementos:
+Requerimientos de software:
 
     Python 3.x
     pip
