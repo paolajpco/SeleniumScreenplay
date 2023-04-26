@@ -2,17 +2,6 @@
 
 Este proyecto de automatización de prueba utiliza Python, el patrón de diseño Screenplay, el marco de trabajo Selenium Web y se implementa con BDD y Cucumber.
 
-Requerimientos
-Para ejecutar el proyecto, es necesario tener instalados los siguientes elementos:
-
-    Python 3.x
-    pip
-    behave
-    selenium
-    screenplay-pattern
-    cucumber-tag-expressions
-    screenpy
-
 **Configuración del ambiente en IDE local**
 
 A continuación se presenta un ejemplo de README para un proyecto de automatización de prueba de la página web de prueba https://demoqa.com/, utilizando Python, el patrón de diseño Screenplay, el marco de trabajo Selenium Web, implementado con BDD y Cucumber:
