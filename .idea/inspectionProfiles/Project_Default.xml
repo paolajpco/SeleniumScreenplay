@@ -6,6 +6,8 @@
         <list>
           <option value="screenpy.BrowseTheWeb" />
           <option value="screenpy.Target" />
+          <option value="tasks.webtables" />
+          <option value="pages.WebTablePage.WebTablePage" />
         </list>
       </option>
     </inspection_tool>
