@@ -3,6 +3,7 @@
 Este proyecto de automatización de prueba utiliza Python, el patrón de diseño Screenplay, el marco de trabajo Selenium Web y se implementa con BDD y Cucumber.
 
 **Requerimientos de software:**
+
     Python 3.x
     pip
     behave
